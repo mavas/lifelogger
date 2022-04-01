@@ -8,8 +8,6 @@ import android.content.Intent;
 /** The upload service,
  *
  * This Android service transfers camera capture data to a remote server.
- *
- * @author David Kilgore
  */
 public class UploadService extends Service
 {
