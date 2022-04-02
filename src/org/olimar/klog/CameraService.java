@@ -27,8 +27,6 @@ import org.olimar.klog.MainActivity;
  *
  * This service component captures pictures or video and saves them to disk in a
  * SQLite database.
- *
- * @author David Kilgore
  */
 public class CameraService extends Service
 {
