@@ -61,8 +61,6 @@ import android.widget.CheckBox;
  * This starts and runs the main interface to the app.  The interface allows the
  * user to start and stop the camera capture service, the data upload service,
  * and the command service.
- *
- * @author David Kilgore
  */
 public class MainActivity extends Activity implements View.OnTouchListener
 {
