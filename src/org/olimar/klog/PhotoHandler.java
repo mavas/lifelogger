@@ -18,8 +18,6 @@ import android.widget.Toast;
 /** Takes care of storing picture data after picture taken.
  *
  * Handles data either via directory files or SQLite database.
- *
- * @author David Kilgore
  */
 public class PhotoHandler implements PictureCallback
 {
