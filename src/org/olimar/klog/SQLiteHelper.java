@@ -6,8 +6,6 @@ import android.database.sqlite.SQLiteDatabase;
 
 
 /** Takes care of the SQLite database for this application.
- *
- * @author David Kilgore
  */
 public class SQLiteHelper extends SQLiteOpenHelper
 {
